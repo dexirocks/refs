@@ -1,4 +1,4 @@
-# Refs.dexi.rocks
+# refs.dexi.rocks
 
 # Like the presentation?
 
