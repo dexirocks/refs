@@ -4,9 +4,9 @@
 
 This website contains my own characters' references as well as my friends', mostly those for whom I've commissioned gift arts of.
 
-This website contains ONLY the characters' arts and descriptions about the characters' physical appearances, both of which are either SFW or suggestive (will be marked if so). I will NOT HOST any NSFW arts, even when the theme contains a way to add NSFW spoiler warning to images.
+This website usually contains ONLY the characters' arts and descriptions about the characters' physical appearances, both of which are either SFW or suggestive (will be spoilered as such if so). I will NOT HOST any NSFW arts, even when the theme contains a way to add NSFW spoiler warning to images.
 
-While theoretically & practically possible to put in other details like personalities and backgrounds, I will generally leave those out and provide them in other forms on a case-to-case basis. If there are any characters in this website with details like those aforementioned, they will be SFW in nature.
+While theoretically & practically possible to put in other details like personalities and backgrounds, those are generally left out and provided in other forms to the artists by me. If there are any characters in this website with details like those aforementioned, they will be SFW in nature.
 
 # Like the presentation?
 
