@@ -1,5 +1,13 @@
 # refs.dexi.rocks
 
+**!!! PLEASE TAKE A READ OF THE LICENSE FILE FOR DETAILS ABOUT COPYRIGHT OWNERSHIP FOR THE CHARACTERS, ARTS, AND TEXT !!!**
+
+This website contains my own characters' references as well as my friends', mostly those for whom I've commissioned gift arts of.
+
+This website contains ONLY the characters' arts and descriptions about the characters' physical appearances, both of which are either SFW or suggestive (will be marked if so). I will NOT HOST any NSFW arts, even when the theme contains a way to add NSFW spoiler warning to images.
+
+While theoretically & practically possible to put in other details like personalities and backgrounds, I will generally leave those out and provide them in other forms on a case-to-case basis. If there are any characters in this website with details like those aforementioned, they will be SFW in nature.
+
 # Like the presentation?
 
 If you like how the references are presented, you may follow the steps below to have your own OC's references being presented the same way too:
