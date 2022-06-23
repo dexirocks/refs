@@ -10,9 +10,10 @@ If you like how the references are presented, you may follow the steps below to 
     - open an issue, or
     - contact me if you have existing contacts with me for help
 
-3a) Set up your own GitHub Pages by following [this](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) guide, OR
-    
-3b) **(FOR FRIENDS ONLY)** Send me your .md file OR create a pull request if you know what to do, this is where the steps end
+3) There are two ways you can go:
+    a) Set up your own GitHub Pages by following [this](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) guide, OR
+    b) **(FOR FRIENDS ONLY)** Send me your .md file OR create a pull request if you know what to do.
+        - If you follow this, this is where you stop
     
 4) Follow [this](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll) guide to change your theme
     - Change it so that it's `remote_theme: dexirocks/<THEME_NAME>`
